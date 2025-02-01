@@ -92,6 +92,33 @@ curl -X GET "http://127.0.0.1:8000/api/faqs/1/translate/?lang=hi"
 "answer": "Django एक उच्च स्तरीय पायथन फ्रेमवर्क है।"
 }
 
+# Running Unit Tests
+
+# Run the following command to execute all unit tests:
+
+python manage.py test
+
+# Technologies Used
+
+Backend: Django, Django REST Framework
+Database: PostgreSQL (Optional)
+Caching: Redis
+Editor: CKEditor 5
+Translation API: Google Translate
+
+# Contribution Guidelines
+
+Fork the repository
+Create a feature branch
+Make your changes & commit
+Push your branch and create a Pull Request
+
+# Author & Contact
+
+Developed by Bandi Vamshi
+📧 Email: vamshibandi520@gmail.com
+🔗 LinkedIn: "https://www.linkedin.com/in/vamshi-bandi-8b2a06288" 🔗 GitHub: "https://github.com/bandi-vamshi/"
+
 ## Git & Version Control
 
 # Version Control with Git
